@@ -6,6 +6,7 @@ class ScanQRCode extends Component {
         return (
             <View>
                 <Text>this is ScanQRCode page</Text>
+                <Text>I want to create camera access</Text>
             </View>
         )
     }
